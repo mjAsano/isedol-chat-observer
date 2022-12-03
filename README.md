@@ -1,6 +1,7 @@
 # isedol-chat-observer
 
 *This project is made for list-up and watch specific channels.
+
 The code defines a number of functions that can be used to interact with a server to fetch video data.
 
 
