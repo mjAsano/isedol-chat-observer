@@ -1,6 +1,8 @@
 # isedol-chat-observer
 
+*This project is made for list-up and watch specific channels.
 The code defines a number of functions that can be used to interact with a server to fetch video data.
+
 
 ## The `change_channel` function
 The change_channel function takes a channel ID as an argument and sets the channel_id variable to the given value. Here's what the function looks like:
